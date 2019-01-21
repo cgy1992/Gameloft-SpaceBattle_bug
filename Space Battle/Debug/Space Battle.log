@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\programming\gameloft\tasks\spacebattle_bug_1\spacebattle_bug\space battle\game.cpp(18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Space Battle.vcxproj -> C:\Programming\Gameloft\Tasks\SpaceBattle_bug_1\SpaceBattle_bug\Debug\Space Battle.exe
+  Space Battle.vcxproj -> C:\Programming\Gameloft\Tasks\SpaceBattle_bug_1\SpaceBattle_bug\Debug\Space Battle.pdb (Full PDB)
